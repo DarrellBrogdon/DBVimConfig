@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/dbrogdon/Desktop/node_modules/http-console2'
+let g:netrw_dirhist_2='/Users/dbrogdon/Development/tilt/views'
+let g:netrw_dirhist_3='/Users/dbrogdon/.vim/snippets'
+let g:netrw_dirhist_4='/Users/dbrogdon/Development/wayinserver/wayin_backend/src/main/webapp'
